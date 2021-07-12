@@ -1,0 +1,13 @@
+
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+
+# Mac junk
+.DS_Store
+
+# PC junk
+*.bak
+
+*.gemspec
