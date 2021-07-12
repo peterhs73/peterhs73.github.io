@@ -58,13 +58,13 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\269B";
+    content: "";
     display: inline-block;
     position: relative;
     top: -.8em;
     padding: 0 .25em;
     font-family: FontAwesome;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 hr.star-light {
